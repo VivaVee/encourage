@@ -1,0 +1,2 @@
+# encourage
+Codaisseur reader exercise
